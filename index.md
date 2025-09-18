@@ -58,3 +58,10 @@ layout: default
 4.  **酒店Wi-Fi别全信：** 海边度假村的Wi-Fi强度，有时候还不如一杯Piña Colada来的实在。关键操作（比如确认明日行程）还是用自己的流量更靠谱。
 
 　　最后唠叨一句：网络只是工具。波多黎各的美，在老城彩色的墙壁里，在荧光海湾的微光中，在莫佛隆格炸香蕉的香气内…偶尔放下手机，沉浸感受，信号满格的人生体验才更珍贵。你说呢？
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Puerto Rico SIM 卡购买与激活指南](https://faciylike.github.io/puerto-rico-sim-guides)
